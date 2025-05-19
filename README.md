@@ -84,6 +84,14 @@ We welcome your contributions and PRs.
 - [ ] Units Test
 - [ ] Support for Other Deployment Platforms
 
+## 🧪 Testing
+
+Run unit tests with [Vitest](https://vitest.dev):
+
+```bash
+pnpm vitest
+```
+
 ## 🏗️ Deployment
 
 > Video tutorial: [Watch here](https://www.youtube.com/watch?v=MkU23U2VE9E)
