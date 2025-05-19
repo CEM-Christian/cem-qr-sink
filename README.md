@@ -81,7 +81,7 @@ We welcome your contributions and PRs.
 - [ ] Enhanced Link Management (with Cloudflare D1)
 - [ ] Analytics Enhancements (Support for merging filter conditions)
 - [ ] Dashboard Performance Optimization (Infinite loading)
-- [ ] Units Test
+ - [ ] Unit Tests
 - [ ] Support for Other Deployment Platforms
 
 ## 🏗️ Deployment
