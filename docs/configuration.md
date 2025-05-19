@@ -8,7 +8,7 @@ Sets the site to demo mode, the generated links will expire after 24 hours, and 
 
 ## `NUXT_PUBLIC_SLUG_DEFAULT_LENGTH`
 
-Sets the default length of the generated SLUG.
+Sets the default length of the generated SLUG. The default value is `6`.
 
 ## `NUXT_REDIRECT_STATUS_CODE`
 
